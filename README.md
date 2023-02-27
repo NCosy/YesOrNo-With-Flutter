@@ -1,4 +1,4 @@
-# yesorno
+# Yes Or No app with Flutter
 
 A new Flutter application.
 
